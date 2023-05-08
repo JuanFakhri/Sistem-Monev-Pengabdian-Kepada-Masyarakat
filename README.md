@@ -37,7 +37,8 @@ Pada pembahasan ini sistem monev Pengabdian Kepada Masyarakat, pada direktorat p
 
 ## Tampilan _user interface_ (UI) 
 ![Profile banner - 1](https://user-images.githubusercontent.com/61308533/236775201-e9ab6295-1d4a-4f2b-ad83-760a5737e0d0.jpg)
-![Uploading Profile banner - 2.jpg…]()
+![Profile banner - 2](https://user-images.githubusercontent.com/61308533/236775376-6317bd77-ae78-4bba-b555-be74b39c0c83.jpg)
+
 
 
 
